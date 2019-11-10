@@ -1,0 +1,12 @@
+hello thank you for downloading my hud!!
+just one thing to addon to have the full experience and look of my hud.
+
+if u have a config file put in the command 
+
+hud_deathnotice_time 0 
+
+^^^^^^^^^^
+this will basically disable the killfeed and I personally like it 
+because it gives you a cleaner look and there is not any clutter.
+
+if ur not a fan of it, I reccomend just leaving it default
